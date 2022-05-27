@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamkartak
-- 👀 I’m interested in Web design and development
-- 🌱 I’m currently learning Ruby, CSS, Python, HTML
+- 👀 I’m interested in Web design and development, Automation tools, and data structure
+- 🌱 I’m currently working with HTML, CSS, Javascript, Python, SQL, PostgreSQL, and BASH
 - 📫 How to reach me hello@adamkarak.com or 773 998 2019
 - 💻 Check out www.adamkartak.com
 
